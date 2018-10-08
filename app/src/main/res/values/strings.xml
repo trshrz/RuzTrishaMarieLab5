@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="app_name2">Activity 2</string>
+    <string name="image_desc">Art Underground</string>
+    <string name="distance_km">Distance from UST: 4.9 kilometers</string>
+    <string name="location_st">Location: 814 Balagtas St. corner Shaw Blvd. | Brgy Addition Hills, Mandaluyong</string>
+    <string name="image_desc2">The Immaculate Conception Cathedral of Cubao</string>
+    <string name="distance_km2">Distance from UST: 5 kilometers</string>
+    <string name="location_st2">Location: 40 Lantana, Quezon City</string>
+    <string name="img1">art</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="img2">immaculate</string>
+    <string name="next2">NEXT</string>
+    <string name="back2">BACK</string>
+</resources>
